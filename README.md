@@ -57,11 +57,14 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 Please make sure to follow the code style and include relevant tests for your changes.
 
-## Screenshots
+## 🔗 Contact
 
-![Home Page](https://drive.google.com/file/d/1rIFuQdrdNG5w0JxbyzlQsy4O38AZpuNe/view?usp=drive_link)
+- For any questions or suggestions, feel free to reach out via GitHub issues or contact
 
-![Login Page](https://drive.google.com/file/d/1_p0qWF8buCGV3BpbIqvNQcXr-2_PV06N/view?usp=drive_link)
+    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhi3218)
 
-![Singup Page](https://drive.google.com/file/d/18AQfJydOg3OeQXjK5v1IZSNa4utxAJ0I/view?usp=drive_link)
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_lofyy) 
+
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiran-abhisheka-3bb78b303 ) 
+
 
