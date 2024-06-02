@@ -1,3 +1,4 @@
+
 # Social_Web_Interface
 
 Welcome to the Social Web Interface project! This is a simple yet elegant social media interface designed to facilitate easy and engaging interactions among users. Built using HTML and CSS, this project showcases a clean, modern design with a focus on user experience.
@@ -58,5 +59,9 @@ Please make sure to follow the code style and include relevant tests for your ch
 
 ## Screenshots
 
-![Home Page](C:\Users\Lenovo\Downloads\Screenshot 2024-06-02 102244)
+![Home Page](https://drive.google.com/file/d/1rIFuQdrdNG5w0JxbyzlQsy4O38AZpuNe/view?usp=drive_link)
+
+![Login Page](https://drive.google.com/file/d/1_p0qWF8buCGV3BpbIqvNQcXr-2_PV06N/view?usp=drive_link)
+
+![Singup Page](https://drive.google.com/file/d/18AQfJydOg3OeQXjK5v1IZSNa4utxAJ0I/view?usp=drive_link)
 
