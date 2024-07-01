@@ -25,11 +25,11 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 ```bash
-  git clone https://github.com/H1R4N404/social-web-interface.git
+  git clone https://github.com/H1R4N404/Social_Web_Interface.git
 ```
 2.Navigate to the project directory: 
 ```bash
-  cd social-web-interface
+  cd Social Web Interface
 ```
 3.Open index.html in your web browser:
 ```bash
